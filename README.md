@@ -1,7 +1,7 @@
-## Hi there 👋
+## Welcome to my repositories👋
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/?username=Mr-Chenxii&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=vue" /></a>
 
-### I'm a rubbish
+### I'm a rubbish and still learning
 ![](https://img.shields.io/badge/SCUEC-7dfa96?style=flat-square)
 
 Bachelor's degree in South-Central Minzu University
@@ -33,7 +33,7 @@ Master's degree still on the way
 
 ### ⏯️ **Next Plans**
 
-- 🕰️ 毕业 开摆
+- 🕰️ 毕业 工作
 
 <!--**Mr-Chenxii/Mr-Chenxii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
