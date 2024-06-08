@@ -4,11 +4,11 @@
 ### I'm a rubbish and still learning
 ![](https://img.shields.io/badge/SCUEC-7dfa96?style=flat-square)
 
-Bachelor's degree in South-Central Minzu University
+- 😄 Bachelor's degree in South-Central Minzu University
 
-Master's degree still on the way
+- 🤔 Master's degree still on the way
 
-💬 Contact me with: ![](https://img.shields.io/badge/1019766824-EB1923?style=flat-square&logo=tencentqq&logoColor=005&labelColor=ecf0f1)
+- 💬 Contact me with: ![](https://img.shields.io/badge/1019766824-EB1923?style=flat-square&logo=tencentqq&logoColor=005&labelColor=ecf0f1)
 
 <details markdown='1'><summary>More</summary>
   
