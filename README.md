@@ -2,7 +2,14 @@
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/?username=Mr-Chenxii&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=vue" /></a>
 
 ### I'm a rubbish
+![](https://img.shields.io/badge/HEBUT-062C86?style=flat-square) ![](https://img.shields.io/badge/OUC-1D85CA?style=flat-square)
+- 🤡 🐮 🐴
+- 💬 Contact me with: 
+  
+  ![](https://img.shields.io/badge/865957991-EB1923?style=flat-square&logo=tencentqq&logoColor=000&labelColor=ecf0f1)
 
+<details markdown='1'><summary>More</summary>
+  
 ### 🔧 **Most Used Developing Tools&Platforms**
 
 ![](https://img.shields.io/badge/System-Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
